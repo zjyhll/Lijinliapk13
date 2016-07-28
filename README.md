@@ -1,11 +1,11 @@
 # [我的github主页](https://github.com/zjyhll)
-<img src="/app/src/main/res/mipmap-xhdpi/l1.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l2.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l3.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l4.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l5.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l6.jpg" width="128" height="128" />
-<img src="/app/src/main/res/mipmap-xhdpi/l7.jpg" width="128" height="128" />
+<img src="/app/src/main/res/mipmap-xhdpi/l1.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l2.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l3.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l4.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l5.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l6.jpg" width="720" height="1280" />
+<img src="/app/src/main/res/mipmap-xhdpi/l7.jpg" width="720" height="1280" />
 
 ##欢迎下载
  >
