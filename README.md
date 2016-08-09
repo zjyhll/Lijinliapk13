@@ -1,11 +1,11 @@
 # [我的github主页](https://github.com/zjyhll)
-<img src="/app/src/main/res/mipmap-xhdpi/l1.jpg" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l2.jpg" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l3.jpg" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l4.jpg" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l5.jpg" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l6.png" width="200" height="400" />
-<img src="/app/src/main/res/mipmap-xhdpi/l7.png" width="200" height="400" />
+<img src="/app/src/main/res/mipmap-xhdpi/l1.jpg"  width="400" height="600" />
+<img src="/app/src/main/res/mipmap-xhdpi/l2.jpg"  width="400" height="600" />
+<img src="/app/src/main/res/mipmap-xhdpi/l3.jpg"  width="400" height="600" />
+<img src="/app/src/main/res/mipmap-xhdpi/l4.jpg"  width="400" height="600" />
+<img src="/app/src/main/res/mipmap-xhdpi/l5.jpg"  width="400" height="600"/>
+<img src="/app/src/main/res/mipmap-xhdpi/l6.png"  width="400" height="600" />
+<img src="/app/src/main/res/mipmap-xhdpi/l7.png"  width="400" height="600" />
 
 ##欢迎下载
  >
@@ -18,6 +18,8 @@
  > [应用宝](http://sj.qq.com/myapp/detail.htm?apkName=com.zjy.lijinli)
  >
  > [小米市场](http://app.xiaomi.com/details?id=com.zjy.lijinli&ref=search)
+ >
+ > [百度市场](http://shouji.baidu.com/software/9748698.html)
 
 
 
