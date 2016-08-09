@@ -1,17 +1,23 @@
 # [我的github主页](https://github.com/zjyhll)
-<img src="/MyFrame/src/main/res/mipmap-xhdpi/logo.png" width="128" height="128" /> <img src="/MyFrame/src/main/res/mipmap-xhdpi/home_top.png" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l1.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l2.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l3.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l4.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l5.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l6.jpg" width="128" height="76" />
+<img src="/app/src/main/res/mipmap-xhdpi/l7.jpg" width="128" height="76" />
 
 ##欢迎下载
  >
  > 直接下载[http://fir.im/lijinli](http://fir.im/lijinli)
  >
- > 360市场[](http://zhushou.360.cn/detail/index/soft_id/3336762?recrefer=SE_D_%E7%A4%BC%E9%87%91%E7%90%86)
+ > [360市场](http://zhushou.360.cn/detail/index/soft_id/3336762?recrefer=SE_D_%E7%A4%BC%E9%87%91%E7%90%86)
  >
- > 安智市场[](http://www.anzhi.com/soft_2640592.html)
+ > [安智市场](http://www.anzhi.com/soft_2640592.html)
  >
- > 应用宝[](http://sj.qq.com/myapp/detail.htm?apkName=com.zjy.lijinli)
+ > [应用宝](http://sj.qq.com/myapp/detail.htm?apkName=com.zjy.lijinli)
  >
- > 小米市场[](http://app.xiaomi.com/details?id=com.zjy.lijinli&ref=search)
+ > [小米市场](http://app.xiaomi.com/details?id=com.zjy.lijinli&ref=search)
 
 
 
@@ -19,6 +25,22 @@
 
 >几个尚有一丝情怀（呸，现在啥子都是情怀，我不想用情怀了）的程序、ui、产品。这是记录收礼还礼的开源项目，我们想让礼金也进入互联网时代。如果您喜欢我们的项目，请[直接下载](http://fir.im/lijinli)，或者联系我们 。如果您对我们的项目有兴趣或者建议，也请联系我们。
 <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1573739541&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1573739541:52" alt="点击这里给我发消息" title="点击这里给我发消息"/></a>
+
+
+v1.4.0(5.2M)
+
+* 2016年8月9
+* 1.修复首次登陆不返回上一界面
+* 2.修改礼单，当未填写金额时程序崩溃
+* 3.当用户同步成功后弹出对话框进行更明确的提醒
+* 4.修复自动更新系统
+* 5.返回按钮上增加"返回"
+
+v1.3.40(5.2M)
+
+* 2016年8月1
+* 1.修复上一版本部分机型开机崩溃
+* 2.增加导出excle表时提示当前是否存在礼单)
 
 v1.2.36(5.2M)
 
